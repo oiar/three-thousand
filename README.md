@@ -1,5 +1,5 @@
 # three_thousand
  
- :star: A simple flutter project to show animation.
+ :tada: :confetti_ball: :crystal_ball: :star: A simple flutter project to show animation.
  
  ## picture show
